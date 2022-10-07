@@ -66,3 +66,5 @@ while not continuar:
         print('\n[ 1 ]PEDRA \n[ 2 ]PAPEL \n[ 3 ]TESOURA')
         escolha = int(input('\nQual você escolhe? '))
         jogada(opcao)
+        
+#PEPATES
